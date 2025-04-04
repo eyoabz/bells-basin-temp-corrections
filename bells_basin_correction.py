@@ -1,4 +1,11 @@
 #%%
+# -*- coding: utf-8 -*-
+#coded: Eyoab Zegeye (eyoabs@gmail.com)
+#Date: 2023-10-01
+#This code is Relationships for adjusting basin deflection 
+# measurements (basin shape) from pavement deflection measuring devices to a reference temperature 
+# according to the relationships and procedures in the Federal Highway Administration (FHWA) report "Temperature Adjustment of Falling Weight Deflectometer (FWD) Deflections" 
+# in https://www.fhwa.dot.gov/publications/research/infrastructure/pavements/ltpp/fwdcd/index.cfm
 import numpy as np
 import pandas as pd
 import math
